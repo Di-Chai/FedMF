@@ -6,7 +6,7 @@ The parameters are declared in ```shared_parameters.py```, which are used by oth
 
 #### Distributed matrix factorization
 
-Distributed matrix factorization are implemented in ```DistributedMF_Full.py``` and ```DistributedMF_Part.py``` 
+Distributed MF are implemented in ```DistributedMF_Full.py``` and ```DistributedMF_Part.py``` 
 which are full and part versions.
 
 #### Federated matrix factorization
