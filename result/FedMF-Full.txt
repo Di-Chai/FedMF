@@ -1,0 +1,2984 @@
+C:\Users\DiChai\AppData\Local\Programs\Python\Python35\python.exe "E:/OneDrive - HKUST Connect/联邦学习-矩阵分解/Experiments/FedMF_Full.py"
+Number of items 40
+Number of users 7
+Number of training ratings 109
+Number of testing ratings 21
+Item profile encrypt using 4.89488959312439 seconds
+###################
+Iteration 0
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.868634462356567 seconds
+User-1 update using 6.234330654144287 seconds
+User-2 update using 6.184465169906616 seconds
+User-3 update using 6.133628845214844 seconds
+User-4 update using 6.188424110412598 seconds
+User-5 update using 6.193440198898315 seconds
+User-6 update using 6.183466911315918 seconds
+User Average time 6.283770050321307
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1559081077575684 seconds
+loss 16.26495613672011
+Costing 8.044092893600464 seconds
+###################
+Iteration 1
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.3988893032073975 seconds
+User-1 update using 6.148560285568237 seconds
+User-2 update using 6.401882886886597 seconds
+User-3 update using 6.159531831741333 seconds
+User-4 update using 6.160526990890503 seconds
+User-5 update using 6.042843580245972 seconds
+User-6 update using 6.1819233894348145 seconds
+User Average time 6.2134511811392645
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1599211692810059 seconds
+loss 16.250139738991848
+Costing 7.581354379653931 seconds
+###################
+Iteration 2
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.0548095703125 seconds
+User-1 update using 6.0907158851623535 seconds
+User-2 update using 6.057801723480225 seconds
+User-3 update using 6.150555372238159 seconds
+User-4 update using 6.107667922973633 seconds
+User-5 update using 6.348026990890503 seconds
+User-6 update using 6.167510271072388 seconds
+User Average time 6.139583962304251
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1509215831756592 seconds
+loss 16.233785405858548
+Costing 7.51849889755249 seconds
+###################
+Iteration 3
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.1655144691467285 seconds
+User-1 update using 6.108665227890015 seconds
+User-2 update using 6.108668327331543 seconds
+User-3 update using 6.134597301483154 seconds
+User-4 update using 6.153546333312988 seconds
+User-5 update using 6.042842864990234 seconds
+User-6 update using 6.033865690231323 seconds
+User Average time 6.106814316340855
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1688754558563232 seconds
+loss 16.21565377096008
+Costing 7.35394024848938 seconds
+###################
+Iteration 4
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.275219678878784 seconds
+User-1 update using 6.066779613494873 seconds
+User-2 update using 6.012922763824463 seconds
+User-3 update using 6.036858558654785 seconds
+User-4 update using 6.061792373657227 seconds
+User-5 update using 6.0278825759887695 seconds
+User-6 update using 6.057801723480225 seconds
+User Average time 6.077036755425589
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.14194655418396 seconds
+loss 16.195489110937473
+Costing 7.436716556549072 seconds
+###################
+Iteration 5
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.045862436294556 seconds
+User-1 update using 6.049796104431152 seconds
+User-2 update using 6.157536029815674 seconds
+User-3 update using 6.0647852420806885 seconds
+User-4 update using 6.0677759647369385 seconds
+User-5 update using 6.078746557235718 seconds
+User-6 update using 6.059796333312988 seconds
+User Average time 6.074899809701102
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1622021198272705 seconds
+loss 16.173004723202254
+Costing 7.3392884731292725 seconds
+###################
+Iteration 6
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.136662483215332 seconds
+User-1 update using 6.083733320236206 seconds
+User-2 update using 6.079771041870117 seconds
+User-3 update using 6.063781023025513 seconds
+User-4 update using 6.154522180557251 seconds
+User-5 update using 6.118639230728149 seconds
+User-6 update using 6.07778263092041 seconds
+User Average time 6.102127415793283
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1488959789276123 seconds
+loss 16.14788007241001
+Costing 7.322968482971191 seconds
+###################
+Iteration 7
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.064817428588867 seconds
+User-1 update using 5.999951601028442 seconds
+User-2 update using 5.971034049987793 seconds
+User-3 update using 6.042815923690796 seconds
+User-4 update using 6.000982284545898 seconds
+User-5 update using 5.976990222930908 seconds
+User-6 update using 6.0448386669158936 seconds
+User Average time 6.014490025384085
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1539137363433838 seconds
+loss 16.119766225689613
+Costing 7.238281488418579 seconds
+###################
+Iteration 8
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.0757551193237305 seconds
+User-1 update using 6.030874967575073 seconds
+User-2 update using 6.041845798492432 seconds
+User-3 update using 6.027881622314453 seconds
+User-4 update using 6.036886215209961 seconds
+User-5 update using 6.018775701522827 seconds
+User-6 update using 6.003946304321289 seconds
+User Average time 6.033709389822824
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1519203186035156 seconds
+loss 16.088275371260103
+Costing 7.247225761413574 seconds
+###################
+Iteration 9
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.0238940715789795 seconds
+User-1 update using 6.028901815414429 seconds
+User-2 update using 6.075732469558716 seconds
+User-3 update using 6.034891366958618 seconds
+User-4 update using 6.052820920944214 seconds
+User-5 update using 6.025918245315552 seconds
+User-6 update using 6.004940986633301 seconds
+User Average time 6.0352999823434015
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1309494972229004 seconds
+loss 16.052972919260736
+Costing 7.226232290267944 seconds
+###################
+Iteration 10
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.040822505950928 seconds
+User-1 update using 6.035862684249878 seconds
+User-2 update using 6.01790976524353 seconds
+User-3 update using 6.005940914154053 seconds
+User-4 update using 6.062788248062134 seconds
+User-5 update using 6.1595306396484375 seconds
+User-6 update using 6.0159149169921875 seconds
+User Average time 6.0483956677573065
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1399517059326172 seconds
+loss 16.013380962213258
+Costing 7.319032669067383 seconds
+###################
+Iteration 11
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.025889158248901 seconds
+User-1 update using 6.009930372238159 seconds
+User-2 update using 6.05780291557312 seconds
+User-3 update using 6.010928153991699 seconds
+User-4 update using 6.016938209533691 seconds
+User-5 update using 6.017909288406372 seconds
+User-6 update using 6.019877910614014 seconds
+User Average time 6.022753715515137
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1469550132751465 seconds
+loss 15.968965299189053
+Costing 7.224308252334595 seconds
+###################
+Iteration 12
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.111658334732056 seconds
+User-1 update using 6.021898508071899 seconds
+User-2 update using 6.001979827880859 seconds
+User-3 update using 5.996938705444336 seconds
+User-4 update using 6.014916181564331 seconds
+User-5 update using 6.0069661140441895 seconds
+User-6 update using 6.007936716079712 seconds
+User Average time 6.02318491254534
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1379292011260986 seconds
+loss 15.919144195924414
+Costing 7.269137859344482 seconds
+###################
+Iteration 13
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.031871795654297 seconds
+User-1 update using 6.0059425830841064 seconds
+User-2 update using 6.090714454650879 seconds
+User-3 update using 6.151551246643066 seconds
+User-4 update using 6.018934011459351 seconds
+User-5 update using 6.0258612632751465 seconds
+User-6 update using 6.0029497146606445 seconds
+User Average time 6.046832152775356
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1469321250915527 seconds
+loss 15.863265233689686
+Costing 7.318033695220947 seconds
+###################
+Iteration 14
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.008930444717407 seconds
+User-1 update using 5.988961458206177 seconds
+User-2 update using 6.009930610656738 seconds
+User-3 update using 6.014918565750122 seconds
+User-4 update using 6.060793399810791 seconds
+User-5 update using 6.087723731994629 seconds
+User-6 update using 6.033866882324219 seconds
+User Average time 6.029303584780012
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1399519443511963 seconds
+loss 15.800622364942038
+Costing 7.247225999832153 seconds
+###################
+Iteration 15
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.077749252319336 seconds
+User-1 update using 6.02289605140686 seconds
+User-2 update using 6.045867919921875 seconds
+User-3 update using 6.052781581878662 seconds
+User-4 update using 6.085750579833984 seconds
+User-5 update using 6.088697195053101 seconds
+User-6 update using 6.128613710403442 seconds
+User Average time 6.071765184402466
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1778504848480225 seconds
+loss 15.730428983127226
+Costing 7.326014518737793 seconds
+###################
+Iteration 16
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.216378450393677 seconds
+User-1 update using 6.118640661239624 seconds
+User-2 update using 6.070767164230347 seconds
+User-3 update using 6.114650726318359 seconds
+User-4 update using 6.094703912734985 seconds
+User-5 update using 6.065781354904175 seconds
+User-6 update using 6.061793327331543 seconds
+User Average time 6.106102228164673
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1379575729370117 seconds
+loss 15.65183104233297
+Costing 7.373886346817017 seconds
+###################
+Iteration 17
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.012922763824463 seconds
+User-1 update using 6.000954627990723 seconds
+User-2 update using 6.097695827484131 seconds
+User-3 update using 6.086725234985352 seconds
+User-4 update using 6.007936000823975 seconds
+User-5 update using 6.019904136657715 seconds
+User-6 update using 6.009963274002075 seconds
+User Average time 6.033728837966919
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1369271278381348 seconds
+loss 15.56390294279802
+Costing 7.254173278808594 seconds
+###################
+Iteration 18
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.034837245941162 seconds
+User-1 update using 5.997961759567261 seconds
+User-2 update using 5.992975950241089 seconds
+User-3 update using 6.011925458908081 seconds
+User-4 update using 6.050821304321289 seconds
+User-5 update using 6.070768594741821 seconds
+User-6 update using 6.0727620124816895 seconds
+User Average time 6.033150332314627
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.140949010848999 seconds
+loss 15.465640516034089
+Costing 7.233261346817017 seconds
+###################
+Iteration 19
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.056828022003174 seconds
+User-1 update using 5.98497462272644 seconds
+User-2 update using 5.977018594741821 seconds
+User-3 update using 6.031872034072876 seconds
+User-4 update using 6.070768117904663 seconds
+User-5 update using 5.963055849075317 seconds
+User-6 update using 6.0269083976745605 seconds
+User Average time 6.015917948314121
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1389317512512207 seconds
+loss 15.355950871211416
+Costing 7.229250192642212 seconds
+###################
+Iteration 20
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.115647792816162 seconds
+User-1 update using 6.032869338989258 seconds
+User-2 update using 5.9760212898254395 seconds
+User-3 update using 6.0019519329071045 seconds
+User-4 update using 5.990981578826904 seconds
+User-5 update using 5.987988233566284 seconds
+User-6 update using 6.008934497833252 seconds
+User Average time 6.016342094966343
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.134965181350708 seconds
+loss 15.233681324370936
+Costing 7.270163297653198 seconds
+###################
+Iteration 21
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.98798942565918 seconds
+User-1 update using 5.979013442993164 seconds
+User-2 update using 6.051819562911987 seconds
+User-3 update using 6.10370659828186 seconds
+User-4 update using 6.019904613494873 seconds
+User-5 update using 6.042837858200073 seconds
+User-6 update using 5.968047380447388 seconds
+User Average time 6.021902697426932
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1369338035583496 seconds
+loss 15.097614379185975
+Costing 7.260190725326538 seconds
+###################
+Iteration 22
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.002949237823486 seconds
+User-1 update using 5.9859960079193115 seconds
+User-2 update using 5.97106146812439 seconds
+User-3 update using 5.991951942443848 seconds
+User-4 update using 6.019903898239136 seconds
+User-5 update using 6.072761535644531 seconds
+User-6 update using 6.046833038330078 seconds
+User Average time 6.013065304074969
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1329984664916992 seconds
+loss 14.946452855439162
+Costing 7.225310325622559 seconds
+###################
+Iteration 23
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.006916046142578 seconds
+User-1 update using 5.978043556213379 seconds
+User-2 update using 6.0109288692474365 seconds
+User-3 update using 5.996937036514282 seconds
+User-4 update using 6.042842626571655 seconds
+User-5 update using 6.019903898239136 seconds
+User-6 update using 5.996966123580933 seconds
+User Average time 6.007505450929914
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1409497261047363 seconds
+loss 14.778869744818756
+Costing 7.20334267616272 seconds
+###################
+Iteration 24
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.115646600723267 seconds
+User-1 update using 6.12263035774231 seconds
+User-2 update using 6.03685736656189 seconds
+User-3 update using 6.030874967575073 seconds
+User-4 update using 5.990011215209961 seconds
+User-5 update using 5.999958038330078 seconds
+User-6 update using 6.008930444717407 seconds
+User Average time 6.043558427265713
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.139927864074707 seconds
+loss 14.593495773831688
+Costing 7.282108545303345 seconds
+###################
+Iteration 25
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.037861108779907 seconds
+User-1 update using 5.995941400527954 seconds
+User-2 update using 6.1714982986450195 seconds
+User-3 update using 6.0957019329071045 seconds
+User-4 update using 6.10368013381958 seconds
+User-5 update using 6.053840160369873 seconds
+User-6 update using 6.025860071182251 seconds
+User Average time 6.069197586604527
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1449389457702637 seconds
+loss 14.38897320554079
+Costing 7.335987567901611 seconds
+###################
+Iteration 26
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.098665475845337 seconds
+User-1 update using 6.042843341827393 seconds
+User-2 update using 6.065780878067017 seconds
+User-3 update using 6.058799743652344 seconds
+User-4 update using 6.048827171325684 seconds
+User-5 update using 6.156561613082886 seconds
+User-6 update using 6.112632513046265 seconds
+User Average time 6.083444390978132
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1469628810882568 seconds
+loss 14.16396022805748
+Costing 7.323074817657471 seconds
+###################
+Iteration 27
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.044835805892944 seconds
+User-1 update using 6.0009849071502686 seconds
+User-2 update using 5.992945671081543 seconds
+User-3 update using 5.990011215209961 seconds
+User-4 update using 6.014890193939209 seconds
+User-5 update using 5.9720330238342285 seconds
+User-6 update using 6.007935047149658 seconds
+User Average time 6.003376552036831
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1359963417053223 seconds
+loss 13.917194966811673
+Costing 7.200382471084595 seconds
+###################
+Iteration 28
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.130606412887573 seconds
+User-1 update using 6.135595083236694 seconds
+User-2 update using 6.04483699798584 seconds
+User-3 update using 6.016913175582886 seconds
+User-4 update using 6.0508201122283936 seconds
+User-5 update using 6.037856340408325 seconds
+User-6 update using 6.019904851913452 seconds
+User Average time 6.062361853463309
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.150949239730835 seconds
+loss 13.647532886296997
+Costing 7.306094646453857 seconds
+###################
+Iteration 29
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.043813705444336 seconds
+User-1 update using 6.002949237823486 seconds
+User-2 update using 6.094703912734985 seconds
+User-3 update using 6.153546094894409 seconds
+User-4 update using 6.13260293006897 seconds
+User-5 update using 6.170528411865234 seconds
+User-6 update using 6.068746566772461 seconds
+User Average time 6.095270122800555
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1489284038543701 seconds
+loss 13.353978961836054
+Costing 7.339007139205933 seconds
+###################
+Iteration 30
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.126618385314941 seconds
+User-1 update using 6.061790466308594 seconds
+User-2 update using 6.037857294082642 seconds
+User-3 update using 6.092731475830078 seconds
+User-4 update using 6.061768531799316 seconds
+User-5 update using 6.168506860733032 seconds
+User-6 update using 6.126619815826416 seconds
+User Average time 6.096556118556431
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1529171466827393 seconds
+loss 13.035797151819459
+Costing 7.3409743309021 seconds
+###################
+Iteration 31
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.104678153991699 seconds
+User-1 update using 6.0498504638671875 seconds
+User-2 update using 6.082736968994141 seconds
+User-3 update using 6.272201776504517 seconds
+User-4 update using 6.16750955581665 seconds
+User-5 update using 6.26225471496582 seconds
+User-6 update using 6.213414907455444 seconds
+User Average time 6.164663791656494
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1598706245422363 seconds
+loss 12.692544527926179
+Costing 7.451622724533081 seconds
+###################
+Iteration 32
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.235328197479248 seconds
+User-1 update using 6.234329700469971 seconds
+User-2 update using 6.173494100570679 seconds
+User-3 update using 6.139582872390747 seconds
+User-4 update using 6.1445722579956055 seconds
+User-5 update using 6.205407619476318 seconds
+User-6 update using 6.229342937469482 seconds
+User Average time 6.194579669407436
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1948063373565674 seconds
+loss 12.324138313943914
+Costing 7.4496848583221436 seconds
+###################
+Iteration 33
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.187455654144287 seconds
+User-1 update using 6.127614498138428 seconds
+User-2 update using 6.153547525405884 seconds
+User-3 update using 6.222363233566284 seconds
+User-4 update using 6.161525249481201 seconds
+User-5 update using 6.140580415725708 seconds
+User-6 update using 6.146565198898315 seconds
+User Average time 6.162807396480015
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1888225078582764 seconds
+loss 11.930971193449832
+Costing 7.430736064910889 seconds
+###################
+Iteration 34
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.187375783920288 seconds
+User-1 update using 6.194436311721802 seconds
+User-2 update using 6.141578197479248 seconds
+User-3 update using 6.1146509647369385 seconds
+User-4 update using 6.130609035491943 seconds
+User-5 update using 6.2373223304748535 seconds
+User-6 update using 6.122629404067993 seconds
+User Average time 6.161228861127581
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1409492492675781 seconds
+loss 11.513924594817658
+Costing 7.39782190322876 seconds
+###################
+Iteration 35
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.1376118659973145 seconds
+User-1 update using 6.106648921966553 seconds
+User-2 update using 6.087722539901733 seconds
+User-3 update using 6.098692178726196 seconds
+User-4 update using 6.090715646743774 seconds
+User-5 update using 6.195435047149658 seconds
+User-6 update using 6.214382886886597 seconds
+User Average time 6.133029869624546
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.204780101776123 seconds
+loss 11.074470501495549
+Costing 7.438713312149048 seconds
+###################
+Iteration 36
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.276218414306641 seconds
+User-1 update using 6.166512966156006 seconds
+User-2 update using 6.10667085647583 seconds
+User-3 update using 6.182470321655273 seconds
+User-4 update using 6.244302988052368 seconds
+User-5 update using 6.154545545578003 seconds
+User-6 update using 6.131604909896851 seconds
+User Average time 6.180332286017282
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1668801307678223 seconds
+loss 10.614627227184313
+Costing 7.462648868560791 seconds
+###################
+Iteration 37
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.164494514465332 seconds
+User-1 update using 6.111657381057739 seconds
+User-2 update using 6.282202959060669 seconds
+User-3 update using 6.214385271072388 seconds
+User-4 update using 6.214410305023193 seconds
+User-5 update using 6.111632347106934 seconds
+User-6 update using 6.153545618057251 seconds
+User Average time 6.178904056549072
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1658837795257568 seconds
+loss 10.137105802371334
+Costing 7.467637062072754 seconds
+###################
+Iteration 38
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.122629642486572 seconds
+User-1 update using 6.093705892562866 seconds
+User-2 update using 6.147563219070435 seconds
+User-3 update using 6.135594606399536 seconds
+User-4 update using 6.189450979232788 seconds
+User-5 update using 6.171498537063599 seconds
+User-6 update using 6.069770574569702 seconds
+User Average time 6.132887635912214
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1569056510925293 seconds
+loss 9.64516147316294
+Costing 7.3659069538116455 seconds
+###################
+Iteration 39
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.2054078578948975 seconds
+User-1 update using 6.154542922973633 seconds
+User-2 update using 6.24532413482666 seconds
+User-3 update using 6.134575366973877 seconds
+User-4 update using 6.1306071281433105 seconds
+User-5 update using 6.22635293006897 seconds
+User-6 update using 6.271230936050415 seconds
+User Average time 6.195434468133109
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.2885546684265137 seconds
+loss 9.142642754241729
+Costing 7.579335927963257 seconds
+###################
+Iteration 40
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.351018667221069 seconds
+User-1 update using 6.1525490283966064 seconds
+User-2 update using 6.155541181564331 seconds
+User-3 update using 6.141605615615845 seconds
+User-4 update using 6.1704747676849365 seconds
+User-5 update using 6.111658573150635 seconds
+User-6 update using 6.1086931228637695 seconds
+User Average time 6.170220136642456
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1678507328033447 seconds
+loss 8.633834352482392
+Costing 7.538419723510742 seconds
+###################
+Iteration 41
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.193417549133301 seconds
+User-1 update using 6.3669753074646 seconds
+User-2 update using 6.243308067321777 seconds
+User-3 update using 6.101711988449097 seconds
+User-4 update using 6.132575988769531 seconds
+User-5 update using 6.080740928649902 seconds
+User-6 update using 6.114681720733643 seconds
+User Average time 6.1762016500745505
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1539061069488525 seconds
+loss 8.12337585897204
+Costing 7.54043173789978 seconds
+###################
+Iteration 42
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.228346824645996 seconds
+User-1 update using 6.122630596160889 seconds
+User-2 update using 6.134597063064575 seconds
+User-3 update using 6.238318920135498 seconds
+User-4 update using 6.335062503814697 seconds
+User-5 update using 6.260260105133057 seconds
+User-6 update using 6.115649461746216 seconds
+User Average time 6.204980782100132
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1449382305145264 seconds
+loss 7.616070082614194
+Costing 7.499551057815552 seconds
+###################
+Iteration 43
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.094728469848633 seconds
+User-1 update using 6.060796737670898 seconds
+User-2 update using 6.127607822418213 seconds
+User-3 update using 6.118621110916138 seconds
+User-4 update using 6.139584302902222 seconds
+User-5 update using 6.3071348667144775 seconds
+User-6 update using 6.14656662940979 seconds
+User Average time 6.142148562840053
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1668789386749268 seconds
+loss 7.116707041043983
+Costing 7.493564128875732 seconds
+###################
+Iteration 44
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.227350473403931 seconds
+User-1 update using 6.139929533004761 seconds
+User-2 update using 6.1276161670684814 seconds
+User-3 update using 6.145566463470459 seconds
+User-4 update using 6.089718580245972 seconds
+User-5 update using 6.124645471572876 seconds
+User-6 update using 6.133605241775513 seconds
+User Average time 6.141204561505999
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.178821086883545 seconds
+loss 6.629942014654667
+Costing 7.425721883773804 seconds
+###################
+Iteration 45
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.176485300064087 seconds
+User-1 update using 6.162522315979004 seconds
+User-2 update using 6.138616561889648 seconds
+User-3 update using 6.169496059417725 seconds
+User-4 update using 6.1525280475616455 seconds
+User-5 update using 6.053812503814697 seconds
+User-6 update using 6.164518117904663 seconds
+User Average time 6.14542555809021
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1698722839355469 seconds
+loss 6.160045296975668
+Costing 7.365907907485962 seconds
+###################
+Iteration 46
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.1974287033081055 seconds
+User-1 update using 6.106698513031006 seconds
+User-2 update using 6.104650974273682 seconds
+User-3 update using 6.2044103145599365 seconds
+User-4 update using 6.221364736557007 seconds
+User-5 update using 6.198427438735962 seconds
+User-6 update using 6.120633602142334 seconds
+User Average time 6.164802040372576
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1698732376098633 seconds
+loss 5.710760426955015
+Costing 7.410788297653198 seconds
+###################
+Iteration 47
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.153546333312988 seconds
+User-1 update using 6.165513753890991 seconds
+User-2 update using 6.27223014831543 seconds
+User-3 update using 6.10966420173645 seconds
+User-4 update using 6.149579286575317 seconds
+User-5 update using 6.139562129974365 seconds
+User-6 update using 6.195434331893921 seconds
+User Average time 6.169361455099923
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1868534088134766 seconds
+loss 5.285177211332505
+Costing 7.478633880615234 seconds
+###################
+Iteration 48
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.097695827484131 seconds
+User-1 update using 6.137589693069458 seconds
+User-2 update using 6.111658811569214 seconds
+User-3 update using 6.1196370124816895 seconds
+User-4 update using 6.127615928649902 seconds
+User-5 update using 6.187454700469971 seconds
+User-6 update using 6.06678032875061 seconds
+User Average time 6.121204614639282
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.186826467514038 seconds
+loss 4.885682042041338
+Costing 7.393831491470337 seconds
+###################
+Iteration 49
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.138586044311523 seconds
+User-1 update using 6.192442178726196 seconds
+User-2 update using 6.121633052825928 seconds
+User-3 update using 6.095701456069946 seconds
+User-4 update using 6.150554656982422 seconds
+User-5 update using 6.128613471984863 seconds
+User-6 update using 6.083733081817627 seconds
+User Average time 6.130180563245501
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.157930612564087 seconds
+loss 4.513850367052744
+Costing 7.369923114776611 seconds
+###################
+Iteration 50
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.131605863571167 seconds
+User-1 update using 6.05680513381958 seconds
+User-2 update using 6.139584064483643 seconds
+User-3 update using 6.103679180145264 seconds
+User-4 update using 6.195435523986816 seconds
+User-5 update using 6.0947041511535645 seconds
+User-6 update using 6.097695827484131 seconds
+User Average time 6.117072820663452
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1579041481018066 seconds
+loss 4.1705189181416165
+Costing 7.372889995574951 seconds
+###################
+Iteration 51
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.120633363723755 seconds
+User-1 update using 6.094703912734985 seconds
+User-2 update using 6.161558389663696 seconds
+User-3 update using 6.173461675643921 seconds
+User-4 update using 6.1475913524627686 seconds
+User-5 update using 6.169475078582764 seconds
+User-6 update using 6.116645336151123 seconds
+User Average time 6.14058130128043
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.14793062210083 seconds
+loss 3.8558149868954272
+Costing 7.340942621231079 seconds
+###################
+Iteration 52
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.131617307662964 seconds
+User-1 update using 6.097683668136597 seconds
+User-2 update using 6.071764230728149 seconds
+User-3 update using 6.090742826461792 seconds
+User-4 update using 6.135567903518677 seconds
+User-5 update using 6.105673551559448 seconds
+User-6 update using 6.148560523986816 seconds
+User Average time 6.111658573150635
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1668791770935059 seconds
+loss 3.569230854051563
+Costing 7.33499002456665 seconds
+###################
+Iteration 53
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.13659143447876 seconds
+User-1 update using 6.11465048789978 seconds
+User-2 update using 6.092736482620239 seconds
+User-3 update using 6.113649606704712 seconds
+User-4 update using 6.087700128555298 seconds
+User-5 update using 6.042841672897339 seconds
+User-6 update using 6.062812089920044 seconds
+User Average time 6.0929974147251675
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1608977317810059 seconds
+loss 3.309727924785549
+Costing 7.317039489746094 seconds
+###################
+Iteration 54
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.113683223724365 seconds
+User-1 update using 6.083702087402344 seconds
+User-2 update using 6.133601427078247 seconds
+User-3 update using 6.084729433059692 seconds
+User-4 update using 6.173493146896362 seconds
+User-5 update using 6.0877227783203125 seconds
+User-6 update using 6.060794353485107 seconds
+User Average time 6.105389492852347
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1499533653259277 seconds
+loss 3.0758871364767253
+Costing 7.342996835708618 seconds
+###################
+Iteration 55
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.180452823638916 seconds
+User-1 update using 6.1136534214019775 seconds
+User-2 update using 6.211392164230347 seconds
+User-3 update using 6.162549018859863 seconds
+User-4 update using 6.286164045333862 seconds
+User-5 update using 6.243306875228882 seconds
+User-6 update using 6.219395160675049 seconds
+User Average time 6.202416215624128
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1788249015808105 seconds
+loss 2.8659957581675317
+Costing 7.484539270401001 seconds
+###################
+Iteration 56
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.131610631942749 seconds
+User-1 update using 6.145540237426758 seconds
+User-2 update using 6.208400249481201 seconds
+User-3 update using 6.144570589065552 seconds
+User-4 update using 6.139582633972168 seconds
+User-5 update using 6.244327068328857 seconds
+User-6 update using 6.114629030227661 seconds
+User Average time 6.16123720577785
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.167876958847046 seconds
+loss 2.678180101291678
+Costing 7.4317543506622314 seconds
+###################
+Iteration 57
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.276218891143799 seconds
+User-1 update using 6.3081605434417725 seconds
+User-2 update using 6.21036696434021 seconds
+User-3 update using 6.202416181564331 seconds
+User-4 update using 6.174491882324219 seconds
+User-5 update using 6.225354433059692 seconds
+User-6 update using 6.152549505233765 seconds
+User Average time 6.221365485872541
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1549112796783447 seconds
+loss 2.510463120460006
+Costing 7.482622146606445 seconds
+###################
+Iteration 58
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.1395556926727295 seconds
+User-1 update using 6.212390661239624 seconds
+User-2 update using 6.290180444717407 seconds
+User-3 update using 6.301151752471924 seconds
+User-4 update using 6.23931884765625 seconds
+User-5 update using 6.156564712524414 seconds
+User-6 update using 6.041817665100098 seconds
+User Average time 6.197282825197492
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1678783893585205 seconds
+loss 2.3608839081054787
+Costing 7.4885804653167725 seconds
+###################
+Iteration 59
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.1266186237335205 seconds
+User-1 update using 6.081738710403442 seconds
+User-2 update using 6.063786506652832 seconds
+User-3 update using 6.1296117305755615 seconds
+User-4 update using 6.180474042892456 seconds
+User-5 update using 6.124624729156494 seconds
+User-6 update using 6.1306068897247314 seconds
+User Average time 6.119637319019863
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1638879776000977 seconds
+loss 2.227548176565798
+Costing 7.363912343978882 seconds
+###################
+Iteration 60
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.120634317398071 seconds
+User-1 update using 6.053813695907593 seconds
+User-2 update using 6.077775716781616 seconds
+User-3 update using 6.049797773361206 seconds
+User-4 update using 6.179503679275513 seconds
+User-5 update using 6.033840179443359 seconds
+User-6 update using 6.09470272064209 seconds
+User Average time 6.087152583258493
+Size of Encrypted-gradient 1.2359619140625 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019431114196777344 second
+Server update using 1.1649131774902344 seconds
+loss 2.108649765252504
+Costing 7.363847970962524 seconds
+###################
+Iteration 61
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.147564172744751 seconds
+User-1 update using 6.093706369400024 seconds
+User-2 update using 6.101685047149658 seconds
+User-3 update using 6.073760032653809 seconds
+User-4 update using 6.129609823226929 seconds
+User-5 update using 6.126619338989258 seconds
+User-6 update using 6.081738710403442 seconds
+User Average time 6.10781192779541
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1479310989379883 seconds
+loss 2.002525642260125
+Costing 7.315045595169067 seconds
+###################
+Iteration 62
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.11963677406311 seconds
+User-1 update using 6.117643117904663 seconds
+User-2 update using 6.180474519729614 seconds
+User-3 update using 6.093706846237183 seconds
+User-4 update using 6.109663724899292 seconds
+User-5 update using 6.076752185821533 seconds
+User-6 update using 6.099690675735474 seconds
+User Average time 6.1139382634844095
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1559092998504639 seconds
+loss 1.9076652235751612
+Costing 7.355934143066406 seconds
+###################
+Iteration 63
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.099690675735474 seconds
+User-1 update using 6.159531116485596 seconds
+User-2 update using 6.1734938621521 seconds
+User-3 update using 6.116644859313965 seconds
+User-4 update using 6.096698760986328 seconds
+User-5 update using 6.258266925811768 seconds
+User-6 update using 6.112654685974121 seconds
+User Average time 6.145282983779907
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1738612651824951 seconds
+loss 1.8227010166134425
+Costing 7.451678514480591 seconds
+###################
+Iteration 64
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.180497169494629 seconds
+User-1 update using 6.098671197891235 seconds
+User-2 update using 6.129609823226929 seconds
+User-3 update using 6.180475234985352 seconds
+User-4 update using 6.125620365142822 seconds
+User-5 update using 6.203435897827148 seconds
+User-6 update using 6.311102390289307 seconds
+User Average time 6.175630296979632
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1648855209350586 seconds
+loss 1.7464197702982778
+Costing 7.495538234710693 seconds
+###################
+Iteration 65
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.278212070465088 seconds
+User-1 update using 6.190449476242065 seconds
+User-2 update using 6.157557487487793 seconds
+User-3 update using 6.060769557952881 seconds
+User-4 update using 6.133599519729614 seconds
+User-5 update using 6.136592388153076 seconds
+User-6 update using 6.1894495487213135 seconds
+User Average time 6.163804292678833
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1618945598602295 seconds
+loss 1.6777515598530137
+Costing 7.4596569538116455 seconds
+###################
+Iteration 66
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.136592149734497 seconds
+User-1 update using 6.1495561599731445 seconds
+User-2 update using 6.196433067321777 seconds
+User-3 update using 6.114649534225464 seconds
+User-4 update using 6.103679895401001 seconds
+User-5 update using 6.171499729156494 seconds
+User-6 update using 6.108666658401489 seconds
+User Average time 6.140153884887695
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1449666023254395 seconds
+loss 1.6157625286038315
+Costing 7.360949993133545 seconds
+###################
+Iteration 67
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.141543626785278 seconds
+User-1 update using 6.180473804473877 seconds
+User-2 update using 6.160529136657715 seconds
+User-3 update using 6.1306068897247314 seconds
+User-4 update using 6.132603645324707 seconds
+User-5 update using 6.1914451122283936 seconds
+User-6 update using 6.118639945983887 seconds
+User Average time 6.150834594454084
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1598989963531494 seconds
+loss 1.5596352492494534
+Costing 7.370894432067871 seconds
+###################
+Iteration 68
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.092713356018066 seconds
+User-1 update using 6.115645170211792 seconds
+User-2 update using 6.121631860733032 seconds
+User-3 update using 6.200421571731567 seconds
+User-4 update using 6.181472063064575 seconds
+User-5 update using 6.219369649887085 seconds
+User-6 update using 6.235406160354614 seconds
+User Average time 6.166665690285819
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.2287135124206543 seconds
+loss 1.5086639267202868
+Costing 7.483669996261597 seconds
+###################
+Iteration 69
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.25726842880249 seconds
+User-1 update using 6.1465888023376465 seconds
+User-2 update using 6.396872282028198 seconds
+User-3 update using 6.880335330963135 seconds
+User-4 update using 6.8078248500823975 seconds
+User-5 update using 6.5315351486206055 seconds
+User-6 update using 6.619307279586792 seconds
+User Average time 6.519961731774466
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.169870376586914 seconds
+loss 1.4622349140401067
+Costing 8.069756031036377 seconds
+###################
+Iteration 70
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.462719678878784 seconds
+User-1 update using 6.51358699798584 seconds
+User-2 update using 6.224356174468994 seconds
+User-3 update using 6.211392879486084 seconds
+User-4 update using 6.441776514053345 seconds
+User-5 update using 6.597360610961914 seconds
+User-6 update using 7.509918212890625 seconds
+User Average time 6.565873009817941
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.369339942932129 seconds
+loss 1.4198156700933044
+Costing 8.898808479309082 seconds
+###################
+Iteration 71
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.622292518615723 seconds
+User-1 update using 6.511589288711548 seconds
+User-2 update using 6.767904043197632 seconds
+User-3 update using 6.935747146606445 seconds
+User-4 update using 6.330853223800659 seconds
+User-5 update using 6.175485849380493 seconds
+User-6 update using 6.179478645324707 seconds
+User Average time 6.503335816519601
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.2027840614318848 seconds
+loss 1.3809415987814895
+Costing 8.158081531524658 seconds
+###################
+Iteration 72
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.392916679382324 seconds
+User-1 update using 6.36700701713562 seconds
+User-2 update using 6.221342086791992 seconds
+User-3 update using 6.23532772064209 seconds
+User-4 update using 6.351017475128174 seconds
+User-5 update using 6.3270838260650635 seconds
+User-6 update using 6.294197082519531 seconds
+User Average time 6.312698841094971
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1878209114074707 seconds
+loss 1.3452201177318905
+Costing 7.600287914276123 seconds
+###################
+Iteration 73
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.125622034072876 seconds
+User-1 update using 6.166512489318848 seconds
+User-2 update using 6.103679895401001 seconds
+User-3 update using 6.108666658401489 seconds
+User-4 update using 6.153545141220093 seconds
+User-5 update using 6.34304141998291 seconds
+User-6 update using 6.275220155715942 seconds
+User Average time 6.182326827730451
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1948060989379883 seconds
+loss 1.312308420861255
+Costing 7.557397842407227 seconds
+###################
+Iteration 74
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.235327959060669 seconds
+User-1 update using 6.145566701889038 seconds
+User-2 update using 6.153548002243042 seconds
+User-3 update using 6.17948842048645 seconds
+User-4 update using 6.160647869110107 seconds
+User-5 update using 6.138618230819702 seconds
+User-6 update using 6.226853132247925 seconds
+User Average time 6.177150045122419
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1559085845947266 seconds
+loss 1.2819081025727073
+Costing 7.410786867141724 seconds
+###################
+Iteration 75
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.24587082862854 seconds
+User-1 update using 6.332050800323486 seconds
+User-2 update using 6.4038777351379395 seconds
+User-3 update using 6.403639793395996 seconds
+User-4 update using 6.123626470565796 seconds
+User-5 update using 6.138613700866699 seconds
+User-6 update using 6.17147159576416 seconds
+User Average time 6.2598787035260886
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1598989963531494 seconds
+loss 1.253754678853019
+Costing 7.583327054977417 seconds
+###################
+Iteration 76
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.292176008224487 seconds
+User-1 update using 6.173493146896362 seconds
+User-2 update using 6.133600234985352 seconds
+User-3 update using 6.149557113647461 seconds
+User-4 update using 6.322096586227417 seconds
+User-5 update using 6.298159599304199 seconds
+User-6 update using 6.222362279891968 seconds
+User Average time 6.227349281311035
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.2356963157653809 seconds
+loss 1.2276264603279625
+Costing 7.577343225479126 seconds
+###################
+Iteration 77
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.16649055480957 seconds
+User-1 update using 6.246287822723389 seconds
+User-2 update using 6.198426961898804 seconds
+User-3 update using 6.325091600418091 seconds
+User-4 update using 6.284197568893433 seconds
+User-5 update using 6.119638204574585 seconds
+User-6 update using 6.219545125961304 seconds
+User Average time 6.222811119897025
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1678783893585205 seconds
+loss 1.203320247951723
+Costing 7.5125203132629395 seconds
+###################
+Iteration 78
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.117642879486084 seconds
+User-1 update using 6.00795578956604 seconds
+User-2 update using 6.100688695907593 seconds
+User-3 update using 6.179476499557495 seconds
+User-4 update using 6.123626947402954 seconds
+User-5 update using 6.200481653213501 seconds
+User-6 update using 6.081729412078857 seconds
+User Average time 6.1159431253160745
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1818413734436035 seconds
+loss 1.180664067125065
+Costing 7.401873350143433 seconds
+###################
+Iteration 79
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.162522554397583 seconds
+User-1 update using 6.201430797576904 seconds
+User-2 update using 6.094703674316406 seconds
+User-3 update using 6.122629404067993 seconds
+User-4 update using 6.24131178855896 seconds
+User-5 update using 6.206434726715088 seconds
+User-6 update using 6.207446575164795 seconds
+User Average time 6.176639931542533
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.2745790481567383 seconds
+loss 1.1595019686451828
+Costing 7.535441160202026 seconds
+###################
+Iteration 80
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.206404209136963 seconds
+User-1 update using 6.129626035690308 seconds
+User-2 update using 6.115648031234741 seconds
+User-3 update using 6.402879953384399 seconds
+User-4 update using 6.573422908782959 seconds
+User-5 update using 6.069770336151123 seconds
+User-6 update using 6.089718580245972 seconds
+User Average time 6.22678143637521
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1439414024353027 seconds
+loss 1.1397034154143337
+Costing 7.73691463470459 seconds
+###################
+Iteration 81
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.052814245223999 seconds
+User-1 update using 6.09270977973938 seconds
+User-2 update using 6.137617826461792 seconds
+User-3 update using 6.033838272094727 seconds
+User-4 update using 6.048827409744263 seconds
+User-5 update using 6.081737756729126 seconds
+User-6 update using 6.0987207889556885 seconds
+User Average time 6.078038011278425
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1459364891052246 seconds
+loss 1.1211430093095354
+Costing 7.303104639053345 seconds
+###################
+Iteration 82
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.0607898235321045 seconds
+User-1 update using 6.029860019683838 seconds
+User-2 update using 6.022890329360962 seconds
+User-3 update using 6.049846887588501 seconds
+User-4 update using 6.143550634384155 seconds
+User-5 update using 6.0807411670684814 seconds
+User-6 update using 6.155569076538086 seconds
+User Average time 6.077606848308018
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1299808025360107 seconds
+loss 1.10371572890076
+Costing 7.305100202560425 seconds
+###################
+Iteration 83
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.121633291244507 seconds
+User-1 update using 6.118664741516113 seconds
+User-2 update using 6.108663558959961 seconds
+User-3 update using 6.109642744064331 seconds
+User-4 update using 6.14956259727478 seconds
+User-5 update using 6.188453912734985 seconds
+User-6 update using 6.153660535812378 seconds
+User Average time 6.135754483086722
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1539132595062256 seconds
+loss 1.0873274478303103
+Costing 7.361917495727539 seconds
+###################
+Iteration 84
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.106160640716553 seconds
+User-1 update using 6.104676961898804 seconds
+User-2 update using 6.162522554397583 seconds
+User-3 update using 6.200449228286743 seconds
+User-4 update using 6.175482273101807 seconds
+User-5 update using 6.121631383895874 seconds
+User-6 update using 6.1086719036102295 seconds
+User Average time 6.139942135129656
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1459083557128906 seconds
+loss 1.0718937261280992
+Costing 7.365907907485962 seconds
+###################
+Iteration 85
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.121631860733032 seconds
+User-1 update using 6.094703674316406 seconds
+User-2 update using 6.090744495391846 seconds
+User-3 update using 6.035830736160278 seconds
+User-4 update using 6.104682445526123 seconds
+User-5 update using 6.1166698932647705 seconds
+User-6 update using 6.108666896820068 seconds
+User Average time 6.096132857458932
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.148928165435791 seconds
+loss 1.0573370064369412
+Costing 7.290110349655151 seconds
+###################
+Iteration 86
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.095730781555176 seconds
+User-1 update using 6.104705333709717 seconds
+User-2 update using 6.113623857498169 seconds
+User-3 update using 6.0917134284973145 seconds
+User-4 update using 6.131627559661865 seconds
+User-5 update using 6.107697486877441 seconds
+User-6 update using 6.059797048568726 seconds
+User Average time 6.100699356624058
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1569080352783203 seconds
+loss 1.0435886526536093
+Costing 7.308085918426514 seconds
+###################
+Iteration 87
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.158511400222778 seconds
+User-1 update using 6.171497583389282 seconds
+User-2 update using 6.074758052825928 seconds
+User-3 update using 6.073760509490967 seconds
+User-4 update using 6.074780464172363 seconds
+User-5 update using 6.114654064178467 seconds
+User-6 update using 6.077722787857056 seconds
+User Average time 6.106526408876691
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1579031944274902 seconds
+loss 1.0305906455203568
+Costing 7.348951101303101 seconds
+###################
+Iteration 88
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.096698045730591 seconds
+User-1 update using 6.119637727737427 seconds
+User-2 update using 6.151573419570923 seconds
+User-3 update using 6.167486906051636 seconds
+User-4 update using 6.0777504444122314 seconds
+User-5 update using 6.029881000518799 seconds
+User-6 update using 6.25672459602356 seconds
+User Average time 6.128536020006452
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1544737815856934 seconds
+loss 1.0182826444149278
+Costing 7.430748701095581 seconds
+###################
+Iteration 89
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.097697019577026 seconds
+User-1 update using 6.078797817230225 seconds
+User-2 update using 6.066756725311279 seconds
+User-3 update using 6.0598227977752686 seconds
+User-4 update using 6.1216065883636475 seconds
+User-5 update using 6.172497272491455 seconds
+User-6 update using 6.098693132400513 seconds
+User Average time 6.099410193307059
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1708691120147705 seconds
+loss 1.00661538935801
+Costing 7.362916707992554 seconds
+###################
+Iteration 90
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.080746650695801 seconds
+User-1 update using 5.99596643447876 seconds
+User-2 update using 6.012896537780762 seconds
+User-3 update using 6.0228962898254395 seconds
+User-4 update using 5.991977214813232 seconds
+User-5 update using 5.99400782585144 seconds
+User-6 update using 5.973001718521118 seconds
+User Average time 6.010213238852365
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1350011825561523 seconds
+loss 0.9955454824147087
+Costing 7.235298156738281 seconds
+###################
+Iteration 91
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.083733558654785 seconds
+User-1 update using 6.12263035774231 seconds
+User-2 update using 6.002948999404907 seconds
+User-3 update using 5.997962236404419 seconds
+User-4 update using 5.997962236404419 seconds
+User-5 update using 5.99596905708313 seconds
+User-6 update using 5.962059020996094 seconds
+User Average time 6.023323638098581
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.143967628479004 seconds
+loss 0.9850285135069821
+Costing 7.286148309707642 seconds
+###################
+Iteration 92
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.032840967178345 seconds
+User-1 update using 5.992974758148193 seconds
+User-2 update using 6.034864187240601 seconds
+User-3 update using 6.07475733757019 seconds
+User-4 update using 6.039851665496826 seconds
+User-5 update using 6.007936000823975 seconds
+User-6 update using 6.038853168487549 seconds
+User Average time 6.031725440706525
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1409480571746826 seconds
+loss 0.9750288952025439
+Costing 7.235255718231201 seconds
+###################
+Iteration 93
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.008933067321777 seconds
+User-1 update using 6.000981092453003 seconds
+User-2 update using 6.0069122314453125 seconds
+User-3 update using 5.997984170913696 seconds
+User-4 update using 5.974004030227661 seconds
+User-5 update using 6.1266188621521 seconds
+User-6 update using 6.086725950241089 seconds
+User Average time 6.028879914964948
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1419687271118164 seconds
+loss 0.9655102605453899
+Costing 7.288137912750244 seconds
+###################
+Iteration 94
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.048852920532227 seconds
+User-1 update using 5.942111968994141 seconds
+User-2 update using 5.909172296524048 seconds
+User-3 update using 5.9680705070495605 seconds
+User-4 update using 5.962053298950195 seconds
+User-5 update using 5.913197040557861 seconds
+User-6 update using 5.939090013504028 seconds
+User Average time 5.954649720873151
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.121999979019165 seconds
+loss 0.9564420112176918
+Costing 7.19040322303772 seconds
+###################
+Iteration 95
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.967017889022827 seconds
+User-1 update using 5.980010509490967 seconds
+User-2 update using 5.920171022415161 seconds
+User-3 update using 5.917212009429932 seconds
+User-4 update using 5.927140951156616 seconds
+User-5 update using 5.917155981063843 seconds
+User-6 update using 5.916208982467651 seconds
+User Average time 5.934988192149571
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1269590854644775 seconds
+loss 0.9477938457750408
+Costing 7.1265199184417725 seconds
+###################
+Iteration 96
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.922195196151733 seconds
+User-1 update using 5.927122354507446 seconds
+User-2 update using 5.911219120025635 seconds
+User-3 update using 5.995944499969482 seconds
+User-4 update using 6.0019519329071045 seconds
+User-5 update using 5.917200326919556 seconds
+User-6 update using 5.908179998397827 seconds
+User Average time 5.940544775554112
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1269867420196533 seconds
+loss 0.939541111981092
+Costing 7.148488998413086 seconds
+###################
+Iteration 97
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.940090894699097 seconds
+User-1 update using 5.9331347942352295 seconds
+User-2 update using 5.921168088912964 seconds
+User-3 update using 5.938145399093628 seconds
+User-4 update using 5.925161600112915 seconds
+User-5 update using 5.962059259414673 seconds
+User-6 update using 5.988959074020386 seconds
+User Average time 5.944102730069842
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1469342708587646 seconds
+loss 0.931658843986067
+Costing 7.1554436683654785 seconds
+###################
+Iteration 98
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.942139625549316 seconds
+User-1 update using 5.9420857429504395 seconds
+User-2 update using 5.9261794090271 seconds
+User-3 update using 5.939094066619873 seconds
+User-4 update using 5.956099033355713 seconds
+User-5 update using 5.930147647857666 seconds
+User-6 update using 5.914183139801025 seconds
+User Average time 5.935704095023019
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1239988803863525 seconds
+loss 0.9241238621470647
+Costing 7.0996482372283936 seconds
+###################
+Iteration 99
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.928148984909058 seconds
+User-1 update using 5.999957323074341 seconds
+User-2 update using 5.966073513031006 seconds
+User-3 update using 5.92413330078125 seconds
+User-4 update using 5.930171251296997 seconds
+User-5 update using 5.906208038330078 seconds
+User-6 update using 5.935131072998047 seconds
+User Average time 5.941403354917254
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.128981113433838 seconds
+loss 0.9169148810927201
+Costing 7.148488759994507 seconds
+###################
+Iteration 100
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.929119825363159 seconds
+User-1 update using 5.928150415420532 seconds
+User-2 update using 5.921167373657227 seconds
+User-3 update using 5.954079627990723 seconds
+User-4 update using 5.98400092124939 seconds
+User-5 update using 5.957098960876465 seconds
+User-6 update using 5.901220798492432 seconds
+User Average time 5.939262560435703
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.125962734222412 seconds
+loss 0.9100139985652428
+Costing 7.12951397895813 seconds
+###################
+Iteration 101
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.935130834579468 seconds
+User-1 update using 5.929174184799194 seconds
+User-2 update using 5.928150177001953 seconds
+User-3 update using 5.946101188659668 seconds
+User-4 update using 5.905210018157959 seconds
+User-5 update using 5.900225877761841 seconds
+User-6 update using 5.932109355926514 seconds
+User Average time 5.925157376698086
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.135962724685669 seconds
+loss 0.9034054960524658
+Costing 7.101614236831665 seconds
+###################
+Iteration 102
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.969041347503662 seconds
+User-1 update using 5.9331347942352295 seconds
+User-2 update using 5.917206287384033 seconds
+User-3 update using 5.910197973251343 seconds
+User-4 update using 5.933135509490967 seconds
+User-5 update using 5.903218030929565 seconds
+User-6 update using 5.906214475631714 seconds
+User Average time 5.9245926312037875
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1229910850524902 seconds
+loss 0.8970702724314044
+Costing 7.1115827560424805 seconds
+###################
+Iteration 103
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.910169363021851 seconds
+User-1 update using 5.959066867828369 seconds
+User-2 update using 5.972031831741333 seconds
+User-3 update using 5.9680421352386475 seconds
+User-4 update using 5.913190841674805 seconds
+User-5 update using 5.903214931488037 seconds
+User-6 update using 5.945131778717041 seconds
+User Average time 5.938692535672869
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1229965686798096 seconds
+loss 0.8909933758869274
+Costing 7.114578723907471 seconds
+###################
+Iteration 104
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.921140432357788 seconds
+User-1 update using 5.928179025650024 seconds
+User-2 update using 5.928119421005249 seconds
+User-3 update using 5.916208982467651 seconds
+User-4 update using 5.970010042190552 seconds
+User-5 update using 5.980010509490967 seconds
+User-6 update using 5.947126388549805 seconds
+User Average time 5.941542114530291
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1249644756317139 seconds
+loss 0.8851609877118989
+Costing 7.124525308609009 seconds
+###################
+Iteration 105
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.928149223327637 seconds
+User-1 update using 5.928150415420532 seconds
+User-2 update using 5.968066453933716 seconds
+User-3 update using 5.977992057800293 seconds
+User-4 update using 5.960063219070435 seconds
+User-5 update using 5.970064878463745 seconds
+User-6 update using 5.960036516189575 seconds
+User Average time 5.956074680600848
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.155909538269043 seconds
+loss 0.879562435131956
+Costing 7.153451919555664 seconds
+###################
+Iteration 106
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.092736721038818 seconds
+User-1 update using 6.033867120742798 seconds
+User-2 update using 5.94610333442688 seconds
+User-3 update using 5.924158573150635 seconds
+User-4 update using 5.924154281616211 seconds
+User-5 update using 5.911200046539307 seconds
+User-6 update using 5.900223255157471 seconds
+User Average time 5.9617776189531595
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1279842853546143 seconds
+loss 0.8741817317737449
+Costing 7.240271329879761 seconds
+###################
+Iteration 107
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.944104433059692 seconds
+User-1 update using 5.915184259414673 seconds
+User-2 update using 5.978985786437988 seconds
+User-3 update using 5.989983797073364 seconds
+User-4 update using 5.933136224746704 seconds
+User-5 update using 5.927178859710693 seconds
+User-6 update using 5.923163414001465 seconds
+User Average time 5.944533824920654
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1249639987945557 seconds
+loss 0.869011325802309
+Costing 7.134498119354248 seconds
+###################
+Iteration 108
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.929124593734741 seconds
+User-1 update using 5.945103645324707 seconds
+User-2 update using 5.92319655418396 seconds
+User-3 update using 5.927145481109619 seconds
+User-4 update using 5.907206058502197 seconds
+User-5 update using 5.9979634284973145 seconds
+User-6 update using 5.993945360183716 seconds
+User Average time 5.946240731648037
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1280112266540527 seconds
+loss 0.8640379541855211
+Costing 7.145524978637695 seconds
+###################
+Iteration 109
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.9132161140441895 seconds
+User-1 update using 5.926157474517822 seconds
+User-2 update using 5.911164283752441 seconds
+User-3 update using 5.902246475219727 seconds
+User-4 update using 5.922137975692749 seconds
+User-5 update using 5.932163715362549 seconds
+User-6 update using 5.913164138793945 seconds
+User Average time 5.917178596769061
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1230311393737793 seconds
+loss 0.8592521039980608
+Costing 7.074745178222656 seconds
+###################
+Iteration 110
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.979983329772949 seconds
+User-1 update using 6.012922286987305 seconds
+User-2 update using 5.936129093170166 seconds
+User-3 update using 5.936156511306763 seconds
+User-4 update using 5.91417932510376 seconds
+User-5 update using 5.912192344665527 seconds
+User-6 update using 5.909204959869385 seconds
+User Average time 5.942966835839408
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1279842853546143 seconds
+loss 0.854645000568618
+Costing 7.160456895828247 seconds
+###################
+Iteration 111
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.935131788253784 seconds
+User-1 update using 5.9082019329071045 seconds
+User-2 update using 5.91016960144043 seconds
+User-3 update using 6.012922763824463 seconds
+User-4 update using 5.978039741516113 seconds
+User-5 update using 5.906213998794556 seconds
+User-6 update using 5.904183626174927 seconds
+User Average time 5.936409064701626
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1240227222442627 seconds
+loss 0.8502086171546674
+Costing 7.156495809555054 seconds
+###################
+Iteration 112
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.916210889816284 seconds
+User-1 update using 5.910196542739868 seconds
+User-2 update using 5.905210256576538 seconds
+User-3 update using 5.935129880905151 seconds
+User-4 update using 5.916153430938721 seconds
+User-5 update using 5.943109750747681 seconds
+User-6 update using 5.991978406906128 seconds
+User Average time 5.931141308375767
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1429438591003418 seconds
+loss 0.8459324807535679
+Costing 7.154472589492798 seconds
+###################
+Iteration 113
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.952085494995117 seconds
+User-1 update using 5.952085256576538 seconds
+User-2 update using 5.918175935745239 seconds
+User-3 update using 5.942134857177734 seconds
+User-4 update using 5.927156686782837 seconds
+User-5 update using 5.917178630828857 seconds
+User-6 update using 5.903215646743774 seconds
+User Average time 5.930290358407157
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1210055351257324 seconds
+loss 0.8418123563328894
+Costing 7.092641353607178 seconds
+###################
+Iteration 114
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.9490931034088135 seconds
+User-1 update using 5.959066867828369 seconds
+User-2 update using 5.958069086074829 seconds
+User-3 update using 5.925180673599243 seconds
+User-4 update using 5.919172525405884 seconds
+User-5 update using 5.91615891456604 seconds
+User-6 update using 5.9301674365997314 seconds
+User Average time 5.936701229640415
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1170175075531006 seconds
+loss 0.8378388718067116
+Costing 7.095634698867798 seconds
+###################
+Iteration 115
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.9380950927734375 seconds
+User-1 update using 5.90922999382019 seconds
+User-2 update using 5.891247987747192 seconds
+User-3 update using 5.9510579109191895 seconds
+User-4 update using 6.001952171325684 seconds
+User-5 update using 5.9740540981292725 seconds
+User-6 update using 5.916153907775879 seconds
+User Average time 5.940255880355835
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1229972839355469 seconds
+loss 0.8340065393467375
+Costing 7.144499778747559 seconds
+###################
+Iteration 116
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.906206846237183 seconds
+User-1 update using 5.914186000823975 seconds
+User-2 update using 5.912187337875366 seconds
+User-3 update using 5.942123174667358 seconds
+User-4 update using 5.917144775390625 seconds
+User-5 update using 5.920170545578003 seconds
+User-6 update using 5.951088190078735 seconds
+User Average time 5.9233009815216064
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1399528980255127 seconds
+loss 0.8303084951738978
+Costing 7.110591411590576 seconds
+###################
+Iteration 117
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.995995759963989 seconds
+User-1 update using 5.907177448272705 seconds
+User-2 update using 5.920193433761597 seconds
+User-3 update using 5.912169456481934 seconds
+User-4 update using 5.943110704421997 seconds
+User-5 update using 5.914185523986816 seconds
+User-6 update using 5.901249408721924 seconds
+User Average time 5.927725962230137
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1239664554595947 seconds
+loss 0.8267383976820791
+Costing 7.139512538909912 seconds
+###################
+Iteration 118
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.931163787841797 seconds
+User-1 update using 5.967050790786743 seconds
+User-2 update using 5.958041191101074 seconds
+User-3 update using 5.989014387130737 seconds
+User-4 update using 5.931114673614502 seconds
+User-5 update using 5.917177677154541 seconds
+User-6 update using 5.92618203163147 seconds
+User Average time 5.94567779132298
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1269872188568115 seconds
+loss 0.8232906940281569
+Costing 7.135551929473877 seconds
+###################
+Iteration 119
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.905205726623535 seconds
+User-1 update using 5.89723801612854 seconds
+User-2 update using 5.905214548110962 seconds
+User-3 update using 5.912159204483032 seconds
+User-4 update using 5.977020025253296 seconds
+User-5 update using 6.006937742233276 seconds
+User-6 update using 5.926181793212891 seconds
+User Average time 5.932851008006504
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1229948997497559 seconds
+loss 0.8199609988372857
+Costing 7.14948296546936 seconds
+###################
+Iteration 120
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.9281439781188965 seconds
+User-1 update using 5.98796272277832 seconds
+User-2 update using 5.939120054244995 seconds
+User-3 update using 5.936153173446655 seconds
+User-4 update using 5.93111515045166 seconds
+User-5 update using 5.90122127532959 seconds
+User-6 update using 5.922165393829346 seconds
+User Average time 5.935125964028495
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1339678764343262 seconds
+loss 0.8167435288133417
+Costing 7.141480922698975 seconds
+###################
+Iteration 121
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.980975389480591 seconds
+User-1 update using 5.949092388153076 seconds
+User-2 update using 5.930169582366943 seconds
+User-3 update using 5.954055547714233 seconds
+User-4 update using 5.927179574966431 seconds
+User-5 update using 5.9032204151153564 seconds
+User-6 update using 5.925147294998169 seconds
+User Average time 5.938548598970685
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1219768524169922 seconds
+loss 0.8136339001005417
+Costing 7.122502565383911 seconds
+###################
+Iteration 122
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.928138017654419 seconds
+User-1 update using 5.898228883743286 seconds
+User-2 update using 5.958046913146973 seconds
+User-3 update using 5.995967864990234 seconds
+User-4 update using 5.93914794921875 seconds
+User-5 update using 5.904214382171631 seconds
+User-6 update using 5.9151833057403564 seconds
+User Average time 5.934132473809378
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1269583702087402 seconds
+loss 0.8106277228871326
+Costing 7.142476558685303 seconds
+###################
+Iteration 123
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.901251316070557 seconds
+User-1 update using 5.9281206130981445 seconds
+User-2 update using 5.923189401626587 seconds
+User-3 update using 5.898229360580444 seconds
+User-4 update using 5.908174753189087 seconds
+User-5 update using 5.9660491943359375 seconds
+User-6 update using 5.97602105140686 seconds
+User Average time 5.92871938432966
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1270127296447754 seconds
+loss 0.8077198687583362
+Costing 7.122584104537964 seconds
+###################
+Iteration 124
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.94507360458374 seconds
+User-1 update using 5.933135986328125 seconds
+User-2 update using 5.934133529663086 seconds
+User-3 update using 5.927179336547852 seconds
+User-4 update using 5.9361279010772705 seconds
+User-5 update using 5.9331395626068115 seconds
+User-6 update using 5.907201766967773 seconds
+User Average time 5.93085595539638
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.127986192703247 seconds
+loss 0.8049080980921897
+Costing 7.092610120773315 seconds
+###################
+Iteration 125
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.967072486877441 seconds
+User-1 update using 5.974996566772461 seconds
+User-2 update using 5.927151918411255 seconds
+User-3 update using 5.927151918411255 seconds
+User-4 update using 5.912192344665527 seconds
+User-5 update using 5.89925479888916 seconds
+User-6 update using 5.919172525405884 seconds
+User Average time 5.932427508490426
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1279780864715576 seconds
+loss 0.802186036802923
+Costing 7.122524976730347 seconds
+###################
+Iteration 126
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.931146860122681 seconds
+User-1 update using 5.915154457092285 seconds
+User-2 update using 5.9331374168396 seconds
+User-3 update using 6.017908096313477 seconds
+User-4 update using 5.990011215209961 seconds
+User-5 update using 5.929146766662598 seconds
+User-6 update using 5.887258529663086 seconds
+User Average time 5.943394763129098
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1170196533203125 seconds
+loss 0.7995512909782327
+Costing 7.154478073120117 seconds
+###################
+Iteration 127
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.916180372238159 seconds
+User-1 update using 5.896234512329102 seconds
+User-2 update using 5.928149461746216 seconds
+User-3 update using 5.925156831741333 seconds
+User-4 update using 5.90221905708313 seconds
+User-5 update using 5.9470720291137695 seconds
+User-6 update using 5.97502326965332 seconds
+User Average time 5.927147933415005
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1618928909301758 seconds
+loss 0.7970006348732602
+Costing 7.156466484069824 seconds
+###################
+Iteration 128
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.935158014297485 seconds
+User-1 update using 5.9261274337768555 seconds
+User-2 update using 5.894267320632935 seconds
+User-3 update using 5.937127590179443 seconds
+User-4 update using 5.910195827484131 seconds
+User-5 update using 5.931143522262573 seconds
+User-6 update using 5.91814661026001 seconds
+User Average time 5.9217380455562045
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1239948272705078 seconds
+loss 0.7945307300161144
+Costing 7.080672740936279 seconds
+###################
+Iteration 129
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.933137893676758 seconds
+User-1 update using 5.9650208950042725 seconds
+User-2 update using 5.980038404464722 seconds
+User-3 update using 5.927124261856079 seconds
+User-4 update using 5.922195196151733 seconds
+User-5 update using 5.934126377105713 seconds
+User-6 update using 5.9062135219573975 seconds
+User Average time 5.938265221459525
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.124992847442627 seconds
+loss 0.7921386044916642
+Costing 7.124581575393677 seconds
+###################
+Iteration 130
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.911195993423462 seconds
+User-1 update using 5.929116487503052 seconds
+User-2 update using 5.905238389968872 seconds
+User-3 update using 5.923162460327148 seconds
+User-4 update using 5.985968351364136 seconds
+User-5 update using 5.956101894378662 seconds
+User-6 update using 5.922137975692749 seconds
+User Average time 5.933274507522583
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1239945888519287 seconds
+loss 0.7898210673743012
+Costing 7.129513263702393 seconds
+###################
+Iteration 131
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.93515682220459 seconds
+User-1 update using 5.921168565750122 seconds
+User-2 update using 5.933143377304077 seconds
+User-3 update using 5.947064399719238 seconds
+User-4 update using 5.933135747909546 seconds
+User-5 update using 5.912214040756226 seconds
+User-6 update using 5.962035655975342 seconds
+User Average time 5.934845515659878
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1359856128692627 seconds
+loss 0.7875744230367143
+Costing 7.117571592330933 seconds
+###################
+Iteration 132
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.976022243499756 seconds
+User-1 update using 5.917205810546875 seconds
+User-2 update using 5.905209302902222 seconds
+User-3 update using 5.935126304626465 seconds
+User-4 update using 5.909200191497803 seconds
+User-5 update using 5.9251344203948975 seconds
+User-6 update using 5.913222312927246 seconds
+User Average time 5.9258743694850375
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1279845237731934 seconds
+loss 0.7853972995857788
+Costing 7.123557090759277 seconds
+###################
+Iteration 133
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.924160003662109 seconds
+User-1 update using 5.968016624450684 seconds
+User-2 update using 5.975022792816162 seconds
+User-3 update using 5.968042373657227 seconds
+User-4 update using 5.928178548812866 seconds
+User-5 update using 5.936099052429199 seconds
+User-6 update using 5.914187908172607 seconds
+User Average time 5.944815329142979
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1459345817565918 seconds
+loss 0.7832861880745362
+Costing 7.140507698059082 seconds
+###################
+Iteration 134
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.922137975692749 seconds
+User-1 update using 5.941114664077759 seconds
+User-2 update using 5.931141376495361 seconds
+User-3 update using 5.925157070159912 seconds
+User-4 update using 5.977020025253296 seconds
+User-5 update using 6.012921571731567 seconds
+User-6 update using 5.916208505630493 seconds
+User Average time 5.9465287412915915
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1229710578918457 seconds
+loss 0.7812385697455136
+Costing 7.155442953109741 seconds
+###################
+Iteration 135
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.911197185516357 seconds
+User-1 update using 5.927149295806885 seconds
+User-2 update using 5.923165798187256 seconds
+User-3 update using 5.934128761291504 seconds
+User-4 update using 5.923166036605835 seconds
+User-5 update using 5.929116725921631 seconds
+User-6 update using 5.929148197174072 seconds
+User Average time 5.925296000071934
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1339669227600098 seconds
+loss 0.7792528853428564
+Costing 7.087646007537842 seconds
+###################
+Iteration 136
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 6.001952171325684 seconds
+User-1 update using 5.948118209838867 seconds
+User-2 update using 5.909177541732788 seconds
+User-3 update using 5.9620890617370605 seconds
+User-4 update using 5.931112766265869 seconds
+User-5 update using 5.908230543136597 seconds
+User-6 update using 5.926128149032593 seconds
+User Average time 5.940972634724209
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.127983808517456 seconds
+loss 0.777326787223104
+Costing 7.149486303329468 seconds
+###################
+Iteration 137
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.908229351043701 seconds
+User-1 update using 5.9171507358551025 seconds
+User-2 update using 5.990982294082642 seconds
+User-3 update using 5.973029851913452 seconds
+User-4 update using 5.947125673294067 seconds
+User-5 update using 5.936100482940674 seconds
+User-6 update using 5.897260904312134 seconds
+User Average time 5.938554184777396
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1359338760375977 seconds
+loss 0.7754572500551755
+Costing 7.146466493606567 seconds
+###################
+Iteration 138
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.931163787841797 seconds
+User-1 update using 5.919170141220093 seconds
+User-2 update using 5.918156385421753 seconds
+User-3 update using 5.914187908172607 seconds
+User-4 update using 5.94709849357605 seconds
+User-5 update using 5.982004642486572 seconds
+User-6 update using 5.9930031299591064 seconds
+User Average time 5.943540641239712
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.128981351852417 seconds
+loss 0.7736428813760925
+Costing 7.141534805297852 seconds
+###################
+Iteration 139
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.925154685974121 seconds
+User-1 update using 5.915186643600464 seconds
+User-2 update using 5.912189960479736 seconds
+User-3 update using 5.909172058105469 seconds
+User-4 update using 5.929169654846191 seconds
+User-5 update using 5.9380998611450195 seconds
+User-6 update using 5.906235456466675 seconds
+User Average time 5.919315474373954
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.116015911102295 seconds
+loss 0.7718808010862287
+Costing 7.073666095733643 seconds
+###################
+Iteration 140
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.990981578826904 seconds
+User-1 update using 5.9909586906433105 seconds
+User-2 update using 5.949092626571655 seconds
+User-3 update using 5.920171737670898 seconds
+User-4 update using 5.922193765640259 seconds
+User-5 update using 5.919143915176392 seconds
+User-6 update using 5.894269704818726 seconds
+User Average time 5.940973145621164
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.121997594833374 seconds
+loss 0.7701706960801395
+Costing 7.1325294971466064 seconds
+###################
+Iteration 141
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.914216756820679 seconds
+User-1 update using 5.93709659576416 seconds
+User-2 update using 5.924158811569214 seconds
+User-3 update using 6.027882814407349 seconds
+User-4 update using 5.983999967575073 seconds
+User-5 update using 5.920171499252319 seconds
+User-6 update using 5.90723180770874 seconds
+User Average time 5.944965464728219
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.121999979019165 seconds
+loss 0.7685091744103951
+Costing 7.169433116912842 seconds
+###################
+Iteration 142
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.925184726715088 seconds
+User-1 update using 5.9211413860321045 seconds
+User-2 update using 5.929172992706299 seconds
+User-3 update using 5.927124738693237 seconds
+User-4 update using 5.928149223327637 seconds
+User-5 update using 5.940117597579956 seconds
+User-6 update using 5.998960018157959 seconds
+User Average time 5.9385500976017545
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1369597911834717 seconds
+loss 0.7668959251161934
+Costing 7.155470132827759 seconds
+###################
+Iteration 143
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.974054574966431 seconds
+User-1 update using 5.9032204151153564 seconds
+User-2 update using 5.916148900985718 seconds
+User-3 update using 5.92717981338501 seconds
+User-4 update using 5.923136234283447 seconds
+User-5 update using 5.921166896820068 seconds
+User-6 update using 5.910224676132202 seconds
+User Average time 5.925018787384033
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1289539337158203 seconds
+loss 0.7653290862220292
+Costing 7.122558832168579 seconds
+###################
+Iteration 144
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.933135509490967 seconds
+User-1 update using 5.973029375076294 seconds
+User-2 update using 5.9660727977752686 seconds
+User-3 update using 5.930119037628174 seconds
+User-4 update using 5.920170545578003 seconds
+User-5 update using 5.930173873901367 seconds
+User-6 update using 5.9101972579956055 seconds
+User Average time 5.937556913920811
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1229968070983887 seconds
+loss 0.7638062065769664
+Costing 7.115576505661011 seconds
+###################
+Iteration 145
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.927151918411255 seconds
+User-1 update using 5.914159297943115 seconds
+User-2 update using 5.924188613891602 seconds
+User-3 update using 5.988958120346069 seconds
+User-4 update using 6.003946304321289 seconds
+User-5 update using 5.952085733413696 seconds
+User-6 update using 5.940118312835693 seconds
+User Average time 5.950086900166103
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1210293769836426 seconds
+loss 0.7623257147101631
+Costing 7.14452600479126 seconds
+###################
+Iteration 146
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.9132184982299805 seconds
+User-1 update using 5.923132419586182 seconds
+User-2 update using 5.941114902496338 seconds
+User-3 update using 5.95410943031311 seconds
+User-4 update using 5.938093185424805 seconds
+User-5 update using 5.932165861129761 seconds
+User-6 update using 5.947099208831787 seconds
+User Average time 5.93556192943028
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1379306316375732 seconds
+loss 0.7608868934972494
+Costing 7.111590385437012 seconds
+###################
+Iteration 147
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.973057985305786 seconds
+User-1 update using 5.915181398391724 seconds
+User-2 update using 5.914160490036011 seconds
+User-3 update using 5.961061477661133 seconds
+User-4 update using 5.927151918411255 seconds
+User-5 update using 5.942130088806152 seconds
+User-6 update using 5.919184446334839 seconds
+User Average time 5.935989686420986
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1239919662475586 seconds
+loss 0.7594880132142954
+Costing 7.116600275039673 seconds
+###################
+Iteration 148
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.945077180862427 seconds
+User-1 update using 5.946100234985352 seconds
+User-2 update using 5.98400092124939 seconds
+User-3 update using 5.988986968994141 seconds
+User-4 update using 5.943137168884277 seconds
+User-5 update using 5.909172058105469 seconds
+User-6 update using 5.90720534324646 seconds
+User Average time 5.946239982332502
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.12501859664917 seconds
+loss 0.7581281583854999
+Costing 7.133555889129639 seconds
+###################
+Iteration 149
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.940124034881592 seconds
+User-1 update using 5.900217771530151 seconds
+User-2 update using 5.921167850494385 seconds
+User-3 update using 5.9281229972839355 seconds
+User-4 update using 5.987987995147705 seconds
+User-5 update using 6.01392126083374 seconds
+User-6 update using 5.928177833557129 seconds
+User Average time 5.9456742491040915
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1229686737060547 seconds
+loss 0.7568056857389194
+Costing 7.156440258026123 seconds
+###################
+Iteration 150
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.919199705123901 seconds
+User-1 update using 5.898229360580444 seconds
+User-2 update using 5.920144319534302 seconds
+User-3 update using 5.923161506652832 seconds
+User-4 update using 5.938150882720947 seconds
+User-5 update using 5.899199724197388 seconds
+User-6 update using 5.901220321655273 seconds
+User Average time 5.914186545780727
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.148927927017212 seconds
+loss 0.7555189431088699
+Costing 7.106629133224487 seconds
+###################
+Iteration 151
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.978990793228149 seconds
+User-1 update using 5.969040870666504 seconds
+User-2 update using 5.924158811569214 seconds
+User-3 update using 5.917206048965454 seconds
+User-4 update using 5.91316294670105 seconds
+User-5 update using 5.92917275428772 seconds
+User-6 update using 5.923163890838623 seconds
+User Average time 5.9364137308938165
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1249635219573975 seconds
+loss 0.7542667816583922
+Costing 7.123504638671875 seconds
+###################
+Iteration 152
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.928149938583374 seconds
+User-1 update using 5.91222071647644 seconds
+User-2 update using 5.982975006103516 seconds
+User-3 update using 5.997960567474365 seconds
+User-4 update using 5.912219524383545 seconds
+User-5 update using 5.9032158851623535 seconds
+User-6 update using 5.892240285873413 seconds
+User Average time 5.932711703436715
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1259942054748535 seconds
+loss 0.75304812794473
+Costing 7.143505096435547 seconds
+###################
+Iteration 153
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.928176641464233 seconds
+User-1 update using 5.931114435195923 seconds
+User-2 update using 5.918176174163818 seconds
+User-3 update using 5.915216684341431 seconds
+User-4 update using 5.949059963226318 seconds
+User-5 update using 5.980010509490967 seconds
+User-6 update using 6.001977920532227 seconds
+User Average time 5.946247475487845
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1319756507873535 seconds
+loss 0.751862700592027
+Costing 7.153503894805908 seconds
+###################
+Iteration 154
+Size of Encrypted-item-vector 1.2359619140625 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009655952453613281 second
+User-0 update using 5.9301438331604 seconds
+User-1 update using 5.8972327709198 seconds
+User-2 update using 5.912163734436035 seconds
+User-3 update using 5.93612813949585 seconds
+User-4 update using 5.9371254444122314 seconds
+User-5 update using 5.937158107757568 seconds
+User-6 update using 5.9071736335754395 seconds
+User Average time 5.922446523393903
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019431114196777344 second
+Server update using 1.1310021877288818 seconds
+loss 0.7507082563791927
+Costing 7.0875914096832275 seconds
+###################
+Iteration 155
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.9849700927734375 seconds
+User-1 update using 5.964054346084595 seconds
+User-2 update using 5.926181316375732 seconds
+User-3 update using 5.927124261856079 seconds
+User-4 update using 5.92715311050415 seconds
+User-5 update using 5.946127414703369 seconds
+User-6 update using 5.929143905639648 seconds
+User Average time 5.943536349705288
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1299540996551514 seconds
+loss 0.7495842183329655
+Costing 7.134474515914917 seconds
+###################
+Iteration 156
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.928148984909058 seconds
+User-1 update using 5.9142138957977295 seconds
+User-2 update using 5.948069095611572 seconds
+User-3 update using 5.962083339691162 seconds
+User-4 update using 5.971035957336426 seconds
+User-5 update using 5.913164138793945 seconds
+User-6 update using 5.930143117904663 seconds
+User Average time 5.938122647149222
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1299784183502197 seconds
+loss 0.748489999321429
+Costing 7.120564699172974 seconds
+###################
+Iteration 157
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.96106219291687 seconds
+User-1 update using 5.918174743652344 seconds
+User-2 update using 5.941114664077759 seconds
+User-3 update using 5.918208599090576 seconds
+User-4 update using 5.913184642791748 seconds
+User-5 update using 5.95906662940979 seconds
+User-6 update using 5.9570441246032715 seconds
+User Average time 5.938265085220337
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1359872817993164 seconds
+loss 0.7474247641382046
+Costing 7.116599798202515 seconds
+###################
+Iteration 158
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.936157464981079 seconds
+User-1 update using 5.918147563934326 seconds
+User-2 update using 5.920192003250122 seconds
+User-3 update using 5.927157163619995 seconds
+User-4 update using 5.922165632247925 seconds
+User-5 update using 5.94610333442688 seconds
+User-6 update using 5.898199558258057 seconds
+User Average time 5.924017531531198
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.127013921737671 seconds
+loss 0.7463868074930678
+Costing 7.092667579650879 seconds
+###################
+Iteration 159
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.934105634689331 seconds
+User-1 update using 5.9690399169921875 seconds
+User-2 update using 5.960063695907593 seconds
+User-3 update using 5.922166585922241 seconds
+User-4 update using 5.91321063041687 seconds
+User-5 update using 5.935142278671265 seconds
+User-6 update using 5.899192810058594 seconds
+User Average time 5.933274507522583
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1269865036010742 seconds
+loss 0.7453757395094603
+Costing 7.11557674407959 seconds
+###################
+Iteration 160
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.930171489715576 seconds
+User-1 update using 5.925156831741333 seconds
+User-2 update using 5.899200677871704 seconds
+User-3 update using 5.967073678970337 seconds
+User-4 update using 5.994941234588623 seconds
+User-5 update using 5.9620585441589355 seconds
+User-6 update using 5.908230304718018 seconds
+User Average time 5.940976108823504
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1190102100372314 seconds
+loss 0.744390739804945
+Costing 7.133501768112183 seconds
+###################
+Iteration 161
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.925130605697632 seconds
+User-1 update using 5.938148736953735 seconds
+User-2 update using 5.957072734832764 seconds
+User-3 update using 5.932138919830322 seconds
+User-4 update using 5.9281487464904785 seconds
+User-5 update using 5.921140432357788 seconds
+User-6 update using 5.9620585441589355 seconds
+User Average time 5.937691245760236
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1379578113555908 seconds
+loss 0.7434304507278832
+Costing 7.1195666790008545 seconds
+###################
+Iteration 162
+Size of Encrypted-item-vector 1.2359619140625 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009655952453613281 second
+User-0 update using 5.97100830078125 seconds
+User-1 update using 5.921189308166504 seconds
+User-2 update using 5.92516303062439 seconds
+User-3 update using 5.923156976699829 seconds
+User-4 update using 5.946108818054199 seconds
+User-5 update using 5.949063301086426 seconds
+User-6 update using 5.891278028488159 seconds
+User Average time 5.932423966271537
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019431114196777344 second
+Server update using 1.1190063953399658 seconds
+loss 0.7424941687353606
+Costing 7.109445810317993 seconds
+###################
+Iteration 163
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.945104360580444 seconds
+User-1 update using 5.933132648468018 seconds
+User-2 update using 5.983976125717163 seconds
+User-3 update using 5.969066619873047 seconds
+User-4 update using 5.918175458908081 seconds
+User-5 update using 5.909200191497803 seconds
+User-6 update using 5.9091737270355225 seconds
+User Average time 5.938261304582868
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.128981351852417 seconds
+loss 0.7415820549329956
+Costing 7.132507801055908 seconds
+###################
+Iteration 164
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.934160470962524 seconds
+User-1 update using 5.90720534324646 seconds
+User-2 update using 5.92213773727417 seconds
+User-3 update using 5.909227132797241 seconds
+User-4 update using 5.9789862632751465 seconds
+User-5 update using 5.995967864990234 seconds
+User-6 update using 5.94413423538208 seconds
+User Average time 5.941688435418265
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1269605159759521 seconds
+loss 0.7406922433370174
+Costing 7.142478704452515 seconds
+###################
+Iteration 165
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.918182373046875 seconds
+User-1 update using 5.907175302505493 seconds
+User-2 update using 5.908231258392334 seconds
+User-3 update using 5.926145553588867 seconds
+User-4 update using 5.92812967300415 seconds
+User-5 update using 5.920171022415161 seconds
+User-6 update using 5.911194801330566 seconds
+User Average time 5.917032854897635
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1359622478485107 seconds
+loss 0.7398251197044429
+Costing 7.083642244338989 seconds
+###################
+Iteration 166
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.97901177406311 seconds
+User-1 update using 5.95311164855957 seconds
+User-2 update using 5.9311347007751465 seconds
+User-3 update using 5.924137592315674 seconds
+User-4 update using 5.918203592300415 seconds
+User-5 update using 5.915184020996094 seconds
+User-6 update using 5.936100482940674 seconds
+User Average time 5.9366976874215265
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1190376281738281 seconds
+loss 0.7389788832144505
+Costing 7.117599725723267 seconds
+###################
+Iteration 167
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.92812180519104 seconds
+User-1 update using 5.912226438522339 seconds
+User-2 update using 5.98296856880188 seconds
+User-3 update using 5.995967864990234 seconds
+User-4 update using 5.933136224746704 seconds
+User-5 update using 5.936127662658691 seconds
+User-6 update using 5.922195672988892 seconds
+User Average time 5.944392033985683
+Size of Encrypted-gradient 1.2359619140625 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019431114196777344 second
+Server update using 1.1329681873321533 seconds
+loss 0.7381539633835956
+Costing 7.148367166519165 seconds
+###################
+Iteration 168
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.943108081817627 seconds
+User-1 update using 5.926154613494873 seconds
+User-2 update using 5.9152116775512695 seconds
+User-3 update using 5.908205032348633 seconds
+User-4 update using 5.934132814407349 seconds
+User-5 update using 5.998931884765625 seconds
+User-6 update using 5.958068132400513 seconds
+User Average time 5.940544605255127
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1329994201660156 seconds
+loss 0.7373488368151822
+Costing 7.151481628417969 seconds
+###################
+Iteration 169
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.940117120742798 seconds
+User-1 update using 5.91318941116333 seconds
+User-2 update using 5.927151679992676 seconds
+User-3 update using 5.912220478057861 seconds
+User-4 update using 5.936127185821533 seconds
+User-5 update using 5.9311137199401855 seconds
+User-6 update using 5.916208982467651 seconds
+User Average time 5.925161225455148
+Size of Encrypted-gradient 1.2359619140625 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019431114196777344 second
+Server update using 1.1249632835388184 seconds
+loss 0.7365633267684736
+Costing 7.0845115184783936 seconds
+###################
+Iteration 170
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.99001407623291 seconds
+User-1 update using 6.023863077163696 seconds
+User-2 update using 5.920170783996582 seconds
+User-3 update using 5.9311683177948 seconds
+User-4 update using 5.93510365486145 seconds
+User-5 update using 5.955078363418579 seconds
+User-6 update using 5.9301440715789795 seconds
+User Average time 5.955077477863857
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1220288276672363 seconds
+loss 0.7357975301136661
+Costing 7.165442228317261 seconds
+###################
+Iteration 171
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.923188924789429 seconds
+User-1 update using 5.911194801330566 seconds
+User-2 update using 5.951061010360718 seconds
+User-3 update using 5.9780168533325195 seconds
+User-4 update using 5.986991882324219 seconds
+User-5 update using 5.933135032653809 seconds
+User-6 update using 5.904240369796753 seconds
+User Average time 5.94111841065543
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1299514770507812 seconds
+loss 0.7350497601475386
+Costing 7.136493682861328 seconds
+###################
+Iteration 172
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.916208744049072 seconds
+User-1 update using 5.904185771942139 seconds
+User-2 update using 5.943110227584839 seconds
+User-3 update using 5.950089454650879 seconds
+User-4 update using 5.918175935745239 seconds
+User-5 update using 5.960064649581909 seconds
+User-6 update using 5.963055849075317 seconds
+User Average time 5.936412947518485
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1409492492675781 seconds
+loss 0.7343192792992203
+Costing 7.123555421829224 seconds
+###################
+Iteration 173
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.940121412277222 seconds
+User-1 update using 5.921164512634277 seconds
+User-2 update using 5.919171094894409 seconds
+User-3 update using 5.9301488399505615 seconds
+User-4 update using 5.909167051315308 seconds
+User-5 update using 5.922195196151733 seconds
+User-6 update using 5.91119647026062 seconds
+User Average time 5.921880653926304
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1200041770935059 seconds
+loss 0.7336065695650725
+Costing 7.079675912857056 seconds
+###################
+Iteration 174
+Size of Encrypted-item-vector 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.009775161743164062 second
+User-0 update using 5.938093423843384 seconds
+User-1 update using 5.986991882324219 seconds
+User-2 update using 5.966048002243042 seconds
+User-3 update using 5.912192106246948 seconds
+User-4 update using 5.954079866409302 seconds
+User-5 update using 5.906236410140991 seconds
+User-6 update using 5.9091713428497314 seconds
+User Average time 5.93897329057966
+Size of Encrypted-gradient 1.251220703125 MB
+Using a 1 Gb/s bandwidth, communication will use 0.019550323486328125 second
+Server update using 1.1270146369934082 seconds
+loss 0.7329103787105489
+Costing 7.133556842803955 seconds
+rmse 1.3965372
+
+Process finished with exit code 0

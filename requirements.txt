@@ -1,0 +1,4 @@
+numpy
+matplotlib
+gmpy2==2.0.8
+phe==1.4.0
